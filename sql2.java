@@ -1,3 +1,18 @@
+package jdbc1;
+import java.sql.*;
+
+
+public class sql2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+
+/*
 package jdbc;
 import java.sql.*;
 public class SQL {
@@ -24,3 +39,4 @@ public class SQL {
 		}
 	}
 }
+*/
