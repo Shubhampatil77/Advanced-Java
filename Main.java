@@ -1,14 +1,10 @@
-package Multithreading;
+package MultithreadingDAY2;
 
 public class Main {
+
 	public static void main(String[] args) {
-		NumThread Shubham=new NumThread();
-		Shubham.run();
-		System.out.println("Shubham Ravinda Patil");
-		
-		for(int n=1;n<=10;n++)
-		{
-			System.out.println("Shubham");
-		}
+		MyThread th1=new MyThread();
+		MyThread th2=new MyThread();		
 	}
+
 }
